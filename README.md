@@ -2,8 +2,7 @@
 ```
 npx thirdweb@latest create --contract
 ```
-Create name and choose the default setting
-Move to the new folder you've created
+Create name and choose the default setting. Move to the new folder you've created
 ```
 npm install dotenv
 touch .env
@@ -21,7 +20,7 @@ npx thirdweb create --app
 ```
 npm install react-router-dom
 ```
-Run
+## Run
 ```
 npm run dev
 ```
